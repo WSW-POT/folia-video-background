@@ -5,7 +5,7 @@
   "version": "0.6.6",
   "author": "Potrest",
   "description": "将背景改为视频播放，适用于从B站下载的视频与音频结合，增加了两种歌词方式，无歌词与电影字幕歌词，开启此模组后在侧边面板配置每个音乐对应的背景视频，因为是AI Coding，所以bug会比较多",
-  "preview": "https://github.com/WSW-POT/folia-video-background/blob/main/69136f216e1b90f55b5122d48c1b9740.png?raw=true"
+  "preview": "https://github.com/WSW-POT/folia-video-background/blob/9ea20869232c1a3c41cd14c297be927642cfcca4/PIC/preview.png"
   "client": "client.mjs",
   "main": "main.cjs",
   "permissions": ["filesystem.data", "net.embed", "visualizer.mode"],
