@@ -1,7 +1,8 @@
 # 视频背景（video-background）
 
 为 Folia 播放页添加视频背景：每首歌可以单独配置本地视频或 Bilibili 视频，并支持音画同步、背景模糊、无歌词与电影字幕模式。
-https://github.com/WSW-POT/folia-video-background/blob/main/69136f216e1b90f55b5122d48c1b9740.png?raw=true
+
+69136f216e1b90f55b5122d48c1b9740.png
 
 ## 功能
 
